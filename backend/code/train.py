@@ -6,7 +6,7 @@ import json
 from joblib import dump
 
 # Read the CSV
-df = pd.read_csv("./datasets/HSD_net/CSV/clean.csv")
+df = pd.read_csv("./datasets/CSV/clean.csv")
 
 # Write the columns to a JSON
 with open("symp.json","w") as file:
