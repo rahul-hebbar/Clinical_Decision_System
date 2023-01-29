@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Zhou, XueZhong
+AU  - Menche, Jörg
+AU  - Barabási, Albert-László
+AU  - Sharma, Amitabh
+PY  - 2014
+DA  - 2014/06/26
+TI  - Human symptoms–disease network
+JO  - Nature Communications
+SP  - 4212
+VL  - 5
+IS  - 1
+AB  - In the post-genomic era, the elucidation of the relationship between the molecular origins of diseases and their resulting phenotypes is a crucial task for medical research. Here, we use a large-scale biomedical literature database to construct a symptom-based human disease network and investigate the connection between clinical manifestations of diseases and their underlying molecular interactions. We find that the symptom-based similarity of two diseases correlates strongly with the number of shared genetic associations and the extent to which their associated proteins interact. Moreover, the diversity of the clinical manifestations of a disease can be related to the connectivity patterns of the underlying protein interaction network. The comprehensive, high-quality map of disease–symptom relations can further be used as a resource helping to address important questions in the field of systems medicine, for example, the identification of unexpected associations between diseases, disease etiology research or drug design.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/ncomms5212
+DO  - 10.1038/ncomms5212
+ID  - Zhou2014
+ER  - 
